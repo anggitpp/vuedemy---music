@@ -1,0 +1,15 @@
+{
+  "home": {
+    "listen": "Nikmati musik favoritmu di sini!"
+  },
+  "register": {
+    "accept": "Saya menyetujui Music's {0}",
+    "tos": "Syarat dan Ketentuan"
+  },
+  "manage": {
+    "my_songs": "Lagu Saya"
+  },
+  "song": {
+    "comment_count": "Belum ada komentar | {count} Komentar"
+  }
+}
